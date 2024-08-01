@@ -61,3 +61,7 @@ The dataset used is the Dogs vs Cats dataset from Kaggle, containing 25,000 imag
 
 ## Conclusion
 This project demonstrates the effectiveness of data augmentation and transfer learning in improving the performance of deep learning models for image classification tasks. The transfer learning approach with the VGG16 model yielded the best results.
+
+## Feedback and Contributions
+
+Feel free to provide feedback or contribute to this project. If you have suggestions for improvements or additional features, your contributions are welcome!
